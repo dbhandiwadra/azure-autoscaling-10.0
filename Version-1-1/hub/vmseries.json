@@ -259,7 +259,8 @@
                         },
                         "dataDisks": [],
                         "imageReference": {
-                            "id": "/subscriptions/1adc902d-2621-40cb-8109-6ab72c2c26c8/resourceGroups/pavmqa-automation-img/providers/Microsoft.Compute/images/PA-VM-AZR-10.0.4-c79"
+                            #"id": "/subscriptions/1adc902d-2621-40cb-8109-6ab72c2c26c8/resourceGroups/pavmqa-automation-img/providers/Microsoft.Compute/images/PA-VM-AZR-10.0.4-c79"
+                            "id": "/subscriptions/e227dd9e-0cf1-49ce-841b-00fb7aa397f4/resourceGroups/regression_azr_resource/providers/Microsoft.Compute/images/PA-VM-AZR-10.0.3"
                         }
                     },
                     "osProfile": {
