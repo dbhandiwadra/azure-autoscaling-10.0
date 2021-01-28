@@ -81,7 +81,8 @@
              "allowedValues": [
                     "byol",
                     "bundle1",
-                    "bundle2"
+                    "bundle2",
+                    "unknown"
              ],
              "metadata": {
                  "description": "byol = Bring Your Own License; bundle1 = Bundle 1 PAYG (Hourly); bundle2 = Bundle 2 PAYG (Hourly)"
