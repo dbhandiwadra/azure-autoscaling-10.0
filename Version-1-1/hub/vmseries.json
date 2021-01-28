@@ -58,7 +58,8 @@
             "allowedValues": [
                 "byol",
                 "bundle1",
-                "bundle2"
+                "bundle2",
+                "unknown"
             ],
             "metadata": {
                 "description": "Firewall License Model"
