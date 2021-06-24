@@ -283,6 +283,7 @@
                         {
                             "name": "[variables('nicNameMgmt')]",
                             "properties": {
+                                "enableAcceleratedNetworking": true,
                                 "primary": "true",
                                 "ipConfigurations": [
                                 {
