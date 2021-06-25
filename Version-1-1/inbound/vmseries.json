@@ -283,7 +283,6 @@
                         {
                             "name": "[variables('nicNameMgmt')]",
                             "properties": {
-                                "enableAcceleratedNetworking": true,
                                 "primary": "true",
                                 "ipConfigurations": [
                                 {
@@ -307,6 +306,7 @@
                             "properties": {
                                 "primary": "false",
                                 "enableIPForwarding": "true",
+                                "enableAcceleratedNetworking": true,
                                 "ipConfigurations": [
                                 {
                                     "name": "[variables('ipConfigNameuntrust')]",
@@ -327,6 +327,7 @@
                             "properties": {
                                 "primary": "false",
                                 "enableIPForwarding": "true",
+                                "enableAcceleratedNetworking": true,
                                 "ipConfigurations": [
                                 {
                                     "name": "[variables('ipConfigNametrust')]",
